@@ -1,0 +1,24 @@
+body {
+  background-image: url('../img/chinesezodiac.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+div {
+  text-align: center;
+}
+
+h1 {
+  padding: 4%;
+  font-size: 50px;
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
+
+button {
+  margin: 1%;
+}
